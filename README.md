@@ -1,2 +1,2 @@
-# cs-shark-git.github.io
+# cs-shark.ru
 my site
