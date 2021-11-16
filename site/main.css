@@ -5,6 +5,13 @@
 	border-top: 6px solid red;
 	border-radius: 50px;
 }
+.thin-line {
+	margin: 20px 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid red;
+	border-radius: 50px;
+}
 
 .round-img {
 	border-radius: 360px;
@@ -13,7 +20,7 @@
 }
 
 .background {
-	background: url(itachi.gif) no-repeat;
+	background: url(bg.gif) no-repeat;
 	background-size: cover;
 	padding:0;
     margin:0;
@@ -25,15 +32,17 @@ body {
 	padding: 0;
 }
 
-.div-con {
-	margin: 0 auto;
-	width: 15%;
-	border-left: 5px solid red;
-	border-right: 5px solid red;
-	border-radius: 4px;
+.icon {
+	border: 2px solid red;
+	border-radius: 30px;
 }
 
 a {
+  color: white !important;
+  text-decoration: none
+}
+
+.image{
   color: transparent !important;
   text-decoration: none
 }
