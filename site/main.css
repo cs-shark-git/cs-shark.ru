@@ -2,25 +2,25 @@
 	margin: 20px 0;
 	height: 0;
 	border: none;
-	border-top: 6px solid skyblue;
+	border-top: 6px solid red;
 	border-radius: 50px;
 }
 .thin-line {
 	margin: 20px 0;
 	height: 0;
 	border: none;
-	border-top: 1px solid skyblue;
+	border-top: 1px solid red;
 	border-radius: 50px;
 }
 
 .round-img {
 	border-radius: 360px;
-    border: 6px solid skyblue;
+    border: 6px solid red;
     box-shadow: 0 0 75px black;
 }
 
 .background {
-	background: url(bg.gif) no-repeat;
+	background: url(default.gif) no-repeat;
 	background-size: cover;
 	padding:0;
   margin:0;
@@ -33,7 +33,7 @@ body {
 }
 
 .icon {
-	border: 2px solid skyblue;
+	border: 2px solid red;
 	border-radius: 30px;
 }
 
